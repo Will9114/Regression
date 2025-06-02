@@ -105,6 +105,7 @@ python-dateutil==2.9.0.post0
 python-json-logger==3.2.1
 pytz==2025.1
 pyviz_comms==3.0.4
+pywin32==308
 pywinpty==2.0.15
 PyYAML==6.0.2
 pyzmq==26.2.1
